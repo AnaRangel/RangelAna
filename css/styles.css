@@ -1,0 +1,6 @@
+.slider .slider-overlay{
+    background-image:url(../images/bg-home.jpg);
+}
+.slider .slider-overlay:after {
+    background-image: url(../images/default.png);
+}
