@@ -4,3 +4,18 @@
 .slider .slider-overlay:after {
     background-image: url(../images/default.png);
 }
+.intro-12 .cvitae-main-nav ul li.cvitae-home:before, .intro-12 .cvitae-main-nav ul li:after, .intro-12 .cvitae-mobile-navigation .nav-header, .intro-12 .cvitae-section-title:before {
+    background: #33c7ff;
+}
+.slider .slider-overlay .slider-content .second-line {
+    color: #33c7ff;
+}
+.intro-12 .blog-single-header .page-title, .intro-12 .cvitae-about-me .links a:hover span, .intro-12 .cvitae-achievement .achievement-container .item .achievement-date, .intro-12 .cvitae-achievement .achievement-container .owl-controls .owl-nav .owl-next:hover:before, .intro-12 .cvitae-achievement .achievement-container .owl-controls .owl-nav .owl-prev:hover:before, .intro-12 .cvitae-clients .clients-container .owl-controls .owl-nav .owl-next:hover:before, .intro-12 .cvitae-clients .clients-container .owl-controls .owl-nav .owl-prev:hover:before, .intro-12 .cvitae-education .content-right .collapsible .collapsible-header:before, .intro-12 .cvitae-education .content-right .collapsible .collapsible-header:hover, .intro-12 .cvitae-experience .content-right .collapsible .collapsible-header:before, .intro-12 .cvitae-experience .content-right .collapsible .collapsible-header:hover, .intro-12 .cvitae-menu-wrapper.sticky .cvitae-main-nav ul li.cvitae-home a, .intro-12 .cvitae-portfolio-popup .portfolio-content .project-popup-close, .intro-12 .cvitae-portfolio-popup .portfolio-content .project-title a, .intro-12 .cvitae-section-title, .intro-12 .cvitae-skills .hi-lights li:before, .intro-12 .cvitae-skills .progress-bar-container .progress .progress-bar .text, .intro-12 .cvitae-testimonial .testimonial-container .item .designation, .intro-12 .cvitae-testimonial .testimonial-container .owl-controls .owl-nav .owl-next:hover:before, .intro-12 .cvitae-testimonial .testimonial-container .owl-controls .owl-nav .owl-prev:hover:before, .intro-12 .footer-content .links li a:hover, .intro-12 .site-content .nav-links .nav-next:after, .intro-12 .site-content .nav-links .nav-previous:before, .intro-12 .site-content nav .nav-links a {
+    color: #33c7ff;
+}
+.intro-12 .cvitae-menu-wrapper.sticky .cvitae-main-nav ul li a.active, .intro-12 .preloader .loading-text {
+    color: #33c7ff;
+}
+.intro-12 .cvitae-blog .content-left .view-all, .intro-12 .entry-content blockquote:before, .intro-12 .preloader .lines .line, .intro-12 .site-content .comment-respond .submit, .intro-12 .site-content .post-info p span {
+    background-color: #33c7ff;
+}
