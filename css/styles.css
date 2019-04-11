@@ -1,3 +1,6 @@
+.p20{
+    padding: 20px;
+}
 .slider .slider-overlay{
     background-image:url(../images/bg-home.jpg);
 }
@@ -18,4 +21,26 @@
 }
 .intro-12 .cvitae-blog .content-left .view-all, .intro-12 .entry-content blockquote:before, .intro-12 .preloader .lines .line, .intro-12 .site-content .comment-respond .submit, .intro-12 .site-content .post-info p span {
     background-color: #33c7ff;
+}
+.cvitae-achievement {
+    background-image: url(../images/bg-4.jpg);
+}
+.cvitae-achievement:before {
+    background-image: url(../images/default.png);
+    z-index: -1;
+}
+.cvitae-testimonial {
+    background-image: url(../images/bg-3.jpg);
+}
+.cvitae-testimonial:before {
+    background-image: url(../images/default.png);
+}
+.cvitae-clients {
+    background-image: url(../images/bg-2.jpg);
+}
+.cvitae-clients:before {
+    background-image: url(../images/default.png);
+}
+.mi-slider nav a {
+    padding: 40px 15px 30px 15px;
 }
