@@ -44,3 +44,7 @@
 .mi-slider nav a {
     padding: 40px 15px 30px 15px;
 }
+.project-image{
+    overflow-y: scroll;
+    height: 400px;
+}
