@@ -2,7 +2,7 @@
     padding: 20px;
 }
 .slider .slider-overlay{
-    background-image:url(../images/bg-home.jpg);
+    background-image:url(../images/bg-home2.jpg);
 }
 .slider .slider-overlay:after {
     background-image: url(../images/default.png);
