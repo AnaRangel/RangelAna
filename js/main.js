@@ -19,11 +19,11 @@ jQuery(document).ready(function () {
 				loopCount: !0,
 				startDelay: 3e3,
 				strings: [
-					'Diseñadora UI/UX ',
+					'Diseñadora UI',
+					'Diseñadora UX',
+					'Diseñadora VUX',
 					'Maquetadora',
-					'Diseñadora Gráfica',
-					'Publicista',
-					'Manejo de Redes Sociales',
+					'Diseñadora Gráfic',
 				],
 				typeSpeed: 100,
 			}),
@@ -58,9 +58,7 @@ jQuery(document).ready(function () {
 			)
 		})
 	for (
-		var t = jQuery('.home .cvitae-main-nav.scroll li').children(),
-			a = [],
-			r = 0;
+		var t = jQuery('.home .cvitae-main-nav.scroll li').children(), a = [], r = 0;
 		r < t.length;
 		r++
 	) {
@@ -172,10 +170,7 @@ jQuery(document).ready(function () {
 			loop: !0,
 			margin: 0,
 			nav: !0,
-			navClass: [
-				'owl-prev waves-effect waves-cvitae',
-				'owl-next waves-effect waves-cvitae',
-			],
+			navClass: ['owl-prev waves-effect waves-cvitae', 'owl-next waves-effect waves-cvitae'],
 			navSpeed: 1e3,
 			responsive: { 0: { items: 1 } },
 			smartSpeed: 1e3,
@@ -206,10 +201,7 @@ jQuery(document).ready(function () {
 			loop: !0,
 			margin: 0,
 			nav: !0,
-			navClass: [
-				'owl-prev waves-effect waves-cvitae',
-				'owl-next waves-effect waves-cvitae',
-			],
+			navClass: ['owl-prev waves-effect waves-cvitae', 'owl-next waves-effect waves-cvitae'],
 			navSpeed: 1e3,
 			responsive: { 0: { items: 1 } },
 			smartSpeed: 1e3,
@@ -219,10 +211,7 @@ jQuery(document).ready(function () {
 			loop: !0,
 			margin: 0,
 			nav: !0,
-			navClass: [
-				'owl-prev waves-effect waves-cvitae',
-				'owl-next waves-effect waves-cvitae',
-			],
+			navClass: ['owl-prev waves-effect waves-cvitae', 'owl-next waves-effect waves-cvitae'],
 			navSpeed: 1e3,
 			responsive: { 1e3: { items: 3 }, 767: { items: 2 }, 0: { items: 1 } },
 			smartSpeed: 1e3,
